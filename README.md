@@ -6,6 +6,7 @@ A generic website to pratice linking multiple pages, formatting, and using Googl
 
 ## Built With
 * Html
+* CSS
 * [Font Awesome](https://fontawesome.com)
 
 ## Demo
