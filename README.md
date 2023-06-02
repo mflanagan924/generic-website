@@ -10,7 +10,7 @@ A generic website to pratice linking multiple pages, formatting, and using Googl
 
 ## Demo
 
-View project demo at [https://autumnchris.github.io/random-quote-machine-vanilla-js](https://autumnchris.github.io/random-quote-machine-vanilla-js).
+View project demo at [https://mflanagan924.github.io/generic-website/](https://mflanagan924.github.io/generic-website/).
 
 ## Instructions
 
