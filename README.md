@@ -14,6 +14,8 @@ View project demo at [https://mflanagan924.github.io/generic-website/](https://m
 
 ## Preview
 
+Homepage
+
 <img src="https://raw.githubusercontent.com/mflanagan924/generic-website/main/Preview.PNG"></img>
 
 ## Instructions
